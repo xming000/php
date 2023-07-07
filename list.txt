@@ -1,0 +1,6 @@
+香港,#genre#
+翡翠台,http://.work/iptv/TVOD/tvb.php?id=0
+J2,http://t.work/iptv/TVOD/tvb.php?id=1
+无线新闻台,http://.work/iptv/TVOD/tvb.php?id=2
+无线财经资讯台,http://x.work/iptv/TVOD/tvb.php?id=3
+台山台,http://.work/iptv/TVOD/taishan.php
